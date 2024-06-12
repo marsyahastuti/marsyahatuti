@@ -199,11 +199,12 @@ i{
 th, td {
     padding: 20px;
     margin-right: auto;
+    
   
 }
 table{
   margin-left: 50px;
-border-collapse: collapse;
+  border-collapse: collapse;
 }
 .container-table{
   background-color: #fff;
